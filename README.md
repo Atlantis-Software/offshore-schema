@@ -1,6 +1,12 @@
 Offshore Schema
 ====================
 
+[![npm version](https://badge.fury.io/js/offshore-schema.svg)](https://www.npmjs.com/offshore-schema)
+[![Build Status](https://travis-ci.org/Atlantis-Software/offshore-schema.svg?branch=master)](https://travis-ci.org/Atlantis-Software/offshore-schema)
+[![Coverage Status](https://coveralls.io/repos/github/Atlantis-Software/offshore-schema/badge.svg?branch=master)](https://coveralls.io/github/Atlantis-Software/offshore-schema?branch=master)
+[![NSP Status](https://nodesecurity.io/orgs/atlantis/projects/5c0941fc-206a-47c8-9234-fb3d45846525/badge)](https://nodesecurity.io/orgs/atlantis/projects/5c0941fc-206a-47c8-9234-fb3d45846525)
+[![Dependencies Status](https://david-dm.org/Atlantis-Software/offshore-schema.svg)](https://david-dm.org/Atlantis-Software/offshore-schema)
+
 This is the core schema builder used in the Offshore ORM. It is responsible for taking an
 attributes object from a Collection and turning it into a fully fledged schema object.
 
